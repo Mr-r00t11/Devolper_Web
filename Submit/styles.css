@@ -1,0 +1,48 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgba(0,0,0,0.3925945378151261) 0%, rgba(181,182,180,0.5326505602240896) 99%), url(img/bg1.jpg);
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+}
+
+.logo {
+    height: 90px;
+    margin-top: 20px;
+}
+
+.text {
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgba(0,0,0,0.39539565826330536) 100%, rgba(181,182,180,0.5326505602240896) 100%);
+    letter-spacing: 2px;
+    font-family: sans-serif;
+
+}
+
+.form-control {
+    background: transparent !important;
+    color: rgb(255, 255, 255);
+}
+
+a .fab {
+    
+    color: white;
+    font-size: 30px;
+    margin: 0 10px;
+
+}
+
+.btn {
+    background: rgb(44, 129, 240);
+}
+
+.img {
+    border-radius: 20px;
+}
